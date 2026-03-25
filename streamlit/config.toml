@@ -1,0 +1,12 @@
+[theme]
+primaryColor = "#2ecc71"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+showErrorDetails = true
+
+[server]
+enableXsrfProtection = true
+enableCORS = true
