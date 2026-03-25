@@ -1,0 +1,20 @@
+
+
+```json
+{
+  "name": "Kids Education Platform",
+  "short_name": "KidsEdu",
+  "description": "منصة تعليمية للأطفال - تربية إسلامية، لغة إنجليزية، رياضيات",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2ecc71",
+  "theme_color": "#2ecc71",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1674/1674083.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
+```
